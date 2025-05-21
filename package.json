@@ -1,0 +1,11 @@
+{
+  "name": "hello-hostmw",
+  "version": "1.0.0",
+  "description": "Simple Hello World Node.js server, this is a test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
